@@ -1,0 +1,16 @@
+{
+  "name": "snow",
+  "version": 1,
+  "kind": "loop",
+  "params": {
+    "count": 60,
+    "drift_x": 0.6,
+    "fall_speed": 0.5,
+    "sway_amp": 0.35,
+    "period": 96,
+    "radius_min": 0.02,
+    "radius_max": 0.05,
+    "wrap_y": 12.0
+  },
+  "notes": "接 skill fx.py（snow 配方）；period 走整数周期 C4 安全；确定性 LCG 由 fx.py 注入，本文件只存参数"
+}

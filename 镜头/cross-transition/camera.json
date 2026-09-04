@@ -1,0 +1,12 @@
+{
+  "name": "cross-transition",
+  "version": 1,
+  "move_type": "cut_cross",
+  "frames": 12,
+  "params": {
+    "kind": "cross",
+    "duration_frames": 12,
+    "softness": 0.0,
+    "notes": "→cut.py 的 cross 转场；也可配 pan/zoom/shake 运镜组合（move_type=pan 时 frames=镜头帧数）"
+  }
+}

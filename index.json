@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-04 19:00:43",
-  "count": 5,
+  "generated": "2026-09-04 19:06:34",
+  "count": 14,
   "assets": [
     {
       "id": "人物/hero",
@@ -13,6 +13,89 @@
       "keywords": [],
       "files": [
         "char_spec.json"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "动物/cat_q",
+      "category": "动物",
+      "category_en": "animal",
+      "name": "cat_q",
+      "version": 1,
+      "tags": [
+        "q版",
+        "cat"
+      ],
+      "keywords": [
+        "猫",
+        "橘猫",
+        "kitty",
+        "Q版猫"
+      ],
+      "files": [
+        "char_spec.json"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "摆件/coffee-mug",
+      "category": "摆件",
+      "category_en": "prop",
+      "name": "coffee-mug",
+      "version": 1,
+      "tags": [
+        "prop",
+        "cup"
+      ],
+      "keywords": [
+        "杯",
+        "马克杯",
+        "咖啡杯"
+      ],
+      "files": [
+        "prop_spec.py"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "载具/wood-boat",
+      "category": "载具",
+      "category_en": "vehicle",
+      "name": "wood-boat",
+      "version": 1,
+      "tags": [
+        "boat",
+        "loop"
+      ],
+      "keywords": [
+        "船",
+        "木船",
+        "帆船",
+        "卡通船"
+      ],
+      "files": [
+        "prop_spec.py"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "场景/beach-coast",
+      "category": "场景",
+      "category_en": "scene",
+      "name": "beach-coast",
+      "version": 1,
+      "tags": [
+        "scene",
+        "beach"
+      ],
+      "keywords": [
+        "沙滩",
+        "海岸",
+        "海滩",
+        "沙滩海岸"
+      ],
+      "files": [
+        "scene.json"
       ],
       "kind": "A"
     },
@@ -33,6 +116,47 @@
       ],
       "files": [
         "prop_spec.py"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "特效/snow",
+      "category": "特效",
+      "category_en": "fx",
+      "name": "snow",
+      "version": 1,
+      "tags": [
+        "loop",
+        "weather"
+      ],
+      "keywords": [
+        "雪",
+        "雪景",
+        "下雪"
+      ],
+      "files": [
+        "fx.json"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "文字UI/speech-bubble",
+      "category": "文字UI",
+      "category_en": "text_ui",
+      "name": "speech-bubble",
+      "version": 1,
+      "tags": [
+        "ui",
+        "dialogue"
+      ],
+      "keywords": [
+        "气泡",
+        "对话气泡",
+        "对话框",
+        "字幕"
+      ],
+      "files": [
+        "text_style.json"
       ],
       "kind": "A"
     },
@@ -72,6 +196,69 @@
       "keywords": [],
       "files": [
         "wave.json"
+      ],
+      "kind": "B"
+    },
+    {
+      "id": "表情口型/six-emotions",
+      "category": "表情口型",
+      "category_en": "expression",
+      "name": "six-emotions",
+      "version": 1,
+      "tags": [
+        "face",
+        "matrix"
+      ],
+      "keywords": [
+        "表情",
+        "情绪",
+        "神态",
+        "6表情"
+      ],
+      "files": [
+        "expressions.json"
+      ],
+      "kind": "B"
+    },
+    {
+      "id": "姿态/contrapposto-s",
+      "category": "姿态",
+      "category_en": "gesture",
+      "name": "contrapposto-s",
+      "version": 1,
+      "tags": [
+        "pose",
+        "contrapposto"
+      ],
+      "keywords": [
+        "站姿",
+        "重心",
+        "S型",
+        "姿态"
+      ],
+      "files": [
+        "gesture.json"
+      ],
+      "kind": "B"
+    },
+    {
+      "id": "镜头/cross-transition",
+      "category": "镜头",
+      "category_en": "camera",
+      "name": "cross-transition",
+      "version": 1,
+      "tags": [
+        "cut",
+        "transition"
+      ],
+      "keywords": [
+        "转场",
+        "交叉",
+        "淡入淡出",
+        "运镜"
+      ],
+      "files": [
+        "camera.json"
       ],
       "kind": "B"
     }

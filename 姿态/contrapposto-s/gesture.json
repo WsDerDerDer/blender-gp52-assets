@@ -1,0 +1,9 @@
+{
+  "name": "contrapposto-s",
+  "version": 1,
+  "line": "S",
+  "amount": 1.0,
+  "weight_leg": "R",
+  "angles": {"spine": 0.8, "head": 5.0, "hip_pitch": -2.0},
+  "notes": "接 skill gesture.pose_from；S = 近直立 + 头昂/胸挺 + 重心偏一腿（经典 contrapposto）"
+}
