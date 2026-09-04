@@ -1,5 +1,5 @@
 {
-  "name": "nod", "rig": "human_q_v2", "loop": true, "frames": 24,
+  "name": "nod", "rig": "human_q", "loop": true, "frames": 24,
   "bob": {"amp": -0.02, "freq": 2},
   "keys": [
     [1,  {"head": 0.0},   "ease_in_out"],

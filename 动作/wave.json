@@ -1,5 +1,5 @@
 {
-  "name": "wave", "rig": "human_q_v2", "loop": true, "frames": 24,
+  "name": "wave", "rig": "human_q", "loop": true, "frames": 24,
   "bob": {},
   "keys": [
     [1,  {"upper_arm_L": 140.0, "forearm_L": 150.0, "spine": -2.0}, "ease_in_out"],

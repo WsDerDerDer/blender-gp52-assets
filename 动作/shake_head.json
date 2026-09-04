@@ -1,5 +1,5 @@
 {
-  "name": "shake_head", "rig": "human_q_v2", "loop": true, "frames": 32,
+  "name": "shake_head", "rig": "human_q", "loop": true, "frames": 32,
   "bob": {},
   "keys": [
     [1,  {"head": 0.0},   "ease_in_out"],

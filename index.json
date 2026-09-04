@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-04 18:53:21",
-  "count": 4,
+  "generated": "2026-09-04 19:00:43",
+  "count": 5,
   "assets": [
     {
       "id": "人物/hero",
@@ -13,6 +13,26 @@
       "keywords": [],
       "files": [
         "char_spec.json"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "场景元素/cartoon-cloud",
+      "category": "场景元素",
+      "category_en": "scene_element",
+      "name": "cartoon-cloud",
+      "version": 1,
+      "tags": [
+        "loop",
+        "cloud"
+      ],
+      "keywords": [
+        "云",
+        "卡通云",
+        "cloud"
+      ],
+      "files": [
+        "prop_spec.py"
       ],
       "kind": "A"
     },
