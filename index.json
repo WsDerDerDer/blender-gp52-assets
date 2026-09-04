@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "generated": "2026-09-04 18:53:21",
+  "count": 4,
+  "assets": [
+    {
+      "id": "人物/hero",
+      "category": "人物",
+      "category_en": "character",
+      "name": "hero",
+      "version": 1,
+      "tags": [],
+      "keywords": [],
+      "files": [
+        "char_spec.json"
+      ],
+      "kind": "A"
+    },
+    {
+      "id": "动作/nod",
+      "category": "动作",
+      "category_en": "action",
+      "name": "nod",
+      "version": 1,
+      "tags": [],
+      "keywords": [],
+      "files": [
+        "nod.json"
+      ],
+      "kind": "B"
+    },
+    {
+      "id": "动作/shake_head",
+      "category": "动作",
+      "category_en": "action",
+      "name": "shake_head",
+      "version": 1,
+      "tags": [],
+      "keywords": [],
+      "files": [
+        "shake_head.json"
+      ],
+      "kind": "B"
+    },
+    {
+      "id": "动作/wave",
+      "category": "动作",
+      "category_en": "action",
+      "name": "wave",
+      "version": 1,
+      "tags": [],
+      "keywords": [],
+      "files": [
+        "wave.json"
+      ],
+      "kind": "B"
+    }
+  ]
+}
