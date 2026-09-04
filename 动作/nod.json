@@ -1,0 +1,11 @@
+{
+  "name": "nod", "rig": "human_q_v2", "loop": true, "frames": 24,
+  "bob": {"amp": -0.02, "freq": 2},
+  "keys": [
+    [1,  {"head": 0.0},   "ease_in_out"],
+    [6,  {"head": -16.0}, "ease_in_out"],
+    [12, {"head": 0.0},   "ease_in_out"],
+    [18, {"head": -16.0}, "ease_in_out"],
+    [24, {"head": 0.0},   "linear"]
+  ]
+}
